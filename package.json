@@ -1,0 +1,28 @@
+{
+  "name": "expect-server-user-authentication",
+  "version": "1.0.0",
+  "description": "Expect Server User Authentication",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamcotton/expect-server-user-authentication.git"
+  },
+  "keywords": [
+    "expect",
+    "server",
+    "user",
+    "authentication"
+  ],
+  "author": "William Cotton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamcotton/expect-server-user-authentication/issues"
+  },
+  "homepage": "https://github.com/williamcotton/expect-server-user-authentication#readme"
+}
